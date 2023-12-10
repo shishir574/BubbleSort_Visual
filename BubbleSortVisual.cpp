@@ -85,7 +85,7 @@ int main(int argc, char* argv[])
             cout << "Invalid input";
             break;
     }
-
+    //sorting
     bubbleSort(v, renderer);
      
     return 0;
